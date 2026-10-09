@@ -1,8 +1,9 @@
-title: BIOL 111A - Statistics
-description: Statistics for Biology
+title: Computational Biology
+description: Computational Biology Investigations
 theme: just-the-docs
 
-url: https://ngs-docs.github.io/2026-summer-bcp-101/
+url: https://wendystjohn.github.io
+baseurl: /computational-biology
 
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
