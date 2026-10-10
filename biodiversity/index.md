@@ -1,7 +1,6 @@
 ---
-title: Home
-layout: home
-nav_order: 1
+title: Biodiversity, Bias, and Big Data
+nav_order: 2
 ---
 
 # Biodiversity, Bias, and Big Data: Exploring Community Ecology with iNaturalist
