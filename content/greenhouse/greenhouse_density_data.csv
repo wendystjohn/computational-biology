@@ -1,0 +1,739 @@
+Species,Metric,Density,Pot ID,Value,"Unit (cm, mm, #)",Group
+Bean,Height,Low,CHI-BEAN-01,56.1,cm,Chi
+Bean,Height,Low,CHI-BEAN-02,31.5,cm,Chi
+Bean,Height,Low,CHI-BEAN-03,33,cm,Chi
+Bean,Height,Low,CHI-BEAN-04,66.5,cm,Chi
+Bean,Height,Low,CHI-BEAN-05,41,cm,Chi
+Bean,Height,Low,CHI-BEAN-07,38.6,cm,Chi
+Bean,Height,Low,FLORES-BEAN-01,36,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,Low,FLORES-BEAN-02,50,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,Low,SC05-BEAN-HEIGHT-P01-R01,75,cm,Howard
+Bean,Height,Med,CHI-BEAN-08,26.3,cm,Chi
+Bean,Height,Med,CHI-BEAN-08,31,cm,Chi
+Bean,Height,Med,CHI-BEAN-08,40.5,cm,Chi
+Bean,Height,Med,CHI-BEAN-08,34.5,cm,Chi
+Bean,Height,Med,CHI-BEAN-08,31,cm,Chi
+Bean,Height,Med,CHI-BEAN-09,31.5,cm,Chi
+Bean,Height,Med,CHI-BEAN-09,49,cm,Chi
+Bean,Height,Med,CHI-BEAN-09,48,cm,Chi
+Bean,Height,Med,CHI-BEAN-09,42.5,cm,Chi
+Bean,Height,Med,CHI-BEAN-09,57,cm,Chi
+Bean,Height,Med,CHI-BEAN-10,32.5,cm,Chi
+Bean,Height,Med,CHI-BEAN-10,34,cm,Chi
+Bean,Height,Med,CHI-BEAN-10,19,cm,Chi
+Bean,Height,Med,FLORES-BEAN-06,45.5,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,Med,FLORES-BEAN-06,49.5,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,Med,FLORES-BEAN-06,42.6,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,Med,FLORES-BEAN-06,43.5,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,Med,FLORES-BEAN-07,8.89,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,Med,FLORES-BEAN-07,11.43,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,Med,FLORES-BEAN-07,35.56,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,Med,FLORES-BEAN-07,26.67,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,Med,FLORES-BEAN-07,38.1,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,Med,SC05-BEAN-HEIGHT-P01-R06,47,cm,Howard
+Bean,Height,Med,SC05-BEAN-HEIGHT-P01-R06,45,cm,Howard
+Bean,Height,Med,SC05-BEAN-HEIGHT-P01-R06,38,cm,Howard
+Bean,Height,Med,SC05-BEAN-HEIGHT-P01-R06,25,cm,Howard
+Bean,Height,Med,SC05-BEAN-HEIGHT-P01-R06,35,cm,Howard
+Bean,Height,Med,SC05-BEAN-HEIGHT-P01-R09,33,cm,Howard
+Bean,Height,Med,SC05-BEAN-HEIGHT-P01-R09,39,cm,Howard
+Bean,Height,Med,SC05-BEAN-HEIGHT-P01-R09,36.5,cm,Howard
+Bean,Height,High,CHI-BEAN-11,50.5,cm,Chi
+Bean,Height,High,CHI-BEAN-11,8.5,cm,Chi
+Bean,Height,High,CHI-BEAN-11,30,cm,Chi
+Bean,Height,High,CHI-BEAN-11,31,cm,Chi
+Bean,Height,High,CHI-BEAN-11,30,cm,Chi
+Bean,Height,High,CHI-BEAN-11,16,cm,Chi
+Bean,Height,High,CHI-BEAN-11,14,cm,Chi
+Bean,Height,High,CHI-BEAN-11,27.5,cm,Chi
+Bean,Height,High,CHI-BEAN-11,26.4,cm,Chi
+Bean,Height,High,CHI-BEAN-11,22,cm,Chi
+Bean,Height,High,CHI-BEAN-12,41,cm,Chi
+Bean,Height,High,CHI-BEAN-12,17.5,cm,Chi
+Bean,Height,High,CHI-BEAN-12,23.7,cm,Chi
+Bean,Height,High,CHI-BEAN-12,47.5,cm,Chi
+Bean,Height,High,CHI-BEAN-12,27,cm,Chi
+Bean,Height,High,CHI-BEAN-12,45.3,cm,Chi
+Bean,Height,High,CHI-BEAN-12,38.1,cm,Chi
+Bean,Height,High,CHI-BEAN-12,42,cm,Chi
+Bean,Height,High,CHI-BEAN-13,46,cm,Chi
+Bean,Height,High,CHI-BEAN-13,17,cm,Chi
+Bean,Height,High,CHI-BEAN-13,26,cm,Chi
+Bean,Height,High,CHI-BEAN-13,40,cm,Chi
+Bean,Height,High,CHI-BEAN-13,31.5,cm,Chi
+Bean,Height,High,CHI-BEAN-13,30.6,cm,Chi
+Bean,Height,High,CHI-BEAN-13,38,cm,Chi
+Bean,Height,High,CHI-BEAN-13,32.5,cm,Chi
+Bean,Height,High,CHI-BEAN-13,41.3,cm,Chi
+Bean,Height,High,CHI-BEAN-13,35.5,cm,Chi
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW12,33,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW12,30.58,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW12,50.8,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW12,37,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW12,22,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW12,33,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW12,36,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW12,46,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW13,36,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW13,36,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW13,35.4,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW13,33,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW13,34.3,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW13,43,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW13,34,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW13,48,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW14,47,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW14,71.12,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW14,48.26,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW14,30,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW14,36.5,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW14,31,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW14,17,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW14,47,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW15,21.5,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW15,48.31,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW15,43.8,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW15,43.23,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW15,40.64,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW15,35.2,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW15,30,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW15,43.19,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,FLORES-BEAN-HEIGHT-ROW15,33,cm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R08,43.5,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R08,34,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R08,48,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R08,39,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R08,28,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R08,30,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R08,39,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R08,38,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R08,32,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R08,34,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R11,21,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R11,32,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R11,38,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R11,22,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R11,53,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R11,31,cm,Howard
+Bean,Height,High,SC05-BEAN-HEIGHT-P01-R11,33,cm,Howard
+Bean,Stem,Low,CHI-BEAN-01,4,mm,Chi
+Bean,Stem,Low,CHI-BEAN-02,4,mm,Chi
+Bean,Stem,Low,CHI-BEAN-03,3.1,mm,Chi
+Bean,Stem,Low,CHI-BEAN-04,3.8,mm,Chi
+Bean,Stem,Low,CHI-BEAN-05,3.5,mm,Chi
+Bean,Stem,Low,CHI-BEAN-07,4,mm,Chi
+Bean,Stem,Low,FLORES-BEAN-01,10,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,Low,FLORES-BEAN-02,10,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,Low,SC05-BEAN-STEM-P02-R01,3,mm,Howard
+Bean,Stem,Med,CHI-BEAN-08,0.7,mm,Chi
+Bean,Stem,Med,CHI-BEAN-08,1.9,mm,Chi
+Bean,Stem,Med,CHI-BEAN-08,2.9,mm,Chi
+Bean,Stem,Med,CHI-BEAN-08,2.1,mm,Chi
+Bean,Stem,Med,CHI-BEAN-08,1.8,mm,Chi
+Bean,Stem,Med,CHI-BEAN-09,4,mm,Chi
+Bean,Stem,Med,CHI-BEAN-09,4,mm,Chi
+Bean,Stem,Med,CHI-BEAN-09,3.9,mm,Chi
+Bean,Stem,Med,CHI-BEAN-09,3,mm,Chi
+Bean,Stem,Med,CHI-BEAN-09,4,mm,Chi
+Bean,Stem,Med,CHI-BEAN-10,0.5,mm,Chi
+Bean,Stem,Med,CHI-BEAN-10,1.7,mm,Chi
+Bean,Stem,Med,CHI-BEAN-10,2,mm,Chi
+Bean,Stem,Med,FLORES-BEAN-06,10,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,Med,FLORES-BEAN-06,10,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,Med,FLORES-BEAN-06,5,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,Med,FLORES-BEAN-06,2,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,Med,FLORES-BEAN-06,7,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,Med,FLORES-BEAN-07,3,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,Med,FLORES-BEAN-07,3,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,Med,FLORES-BEAN-07,2,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,Med,SC05-BEAN-STEM-P02-R08,4,mm,Howard
+Bean,Stem,Med,SC05-BEAN-STEM-P02-R08,4,mm,Howard
+Bean,Stem,Med,SC05-BEAN-STEM-P02-R08,3,mm,Howard
+Bean,Stem,Med,SC05-BEAN-STEM-P02-R08,3,mm,Howard
+Bean,Stem,Med,SC05-BEAN-STEM-P02-R08,1,mm,Howard
+Bean,Stem,Med,SC05-BEAN-STEM-P02-R09,2,mm,Howard
+Bean,Stem,Med,SC05-BEAN-STEM-P02-R09,2,mm,Howard
+Bean,Stem,Med,SC05-BEAN-STEM-P02-R09,4,mm,Howard
+Bean,Stem,Med,SC05-BEAN-STEM-P02-R09,3,mm,Howard
+Bean,Stem,Med,SC05-BEAN-STEM-P02-R09,2,mm,Howard
+Bean,Stem,High,CHI-BEAN-11,2.9,mm,Chi
+Bean,Stem,High,CHI-BEAN-11,0.5,mm,Chi
+Bean,Stem,High,CHI-BEAN-11,3.1,mm,Chi
+Bean,Stem,High,CHI-BEAN-11,1.8,mm,Chi
+Bean,Stem,High,CHI-BEAN-11,1.1,mm,Chi
+Bean,Stem,High,CHI-BEAN-11,2.9,mm,Chi
+Bean,Stem,High,CHI-BEAN-11,3,mm,Chi
+Bean,Stem,High,CHI-BEAN-11,1.3,mm,Chi
+Bean,Stem,High,CHI-BEAN-11,3,mm,Chi
+Bean,Stem,High,CHI-BEAN-11,0.5,mm,Chi
+Bean,Stem,High,CHI-BEAN-12,3.7,mm,Chi
+Bean,Stem,High,CHI-BEAN-12,1,mm,Chi
+Bean,Stem,High,CHI-BEAN-12,0.1,mm,Chi
+Bean,Stem,High,CHI-BEAN-12,1,mm,Chi
+Bean,Stem,High,CHI-BEAN-12,1.8,mm,Chi
+Bean,Stem,High,CHI-BEAN-12,1.6,mm,Chi
+Bean,Stem,High,CHI-BEAN-12,1.1,mm,Chi
+Bean,Stem,High,CHI-BEAN-12,2.3,mm,Chi
+Bean,Stem,High,CHI-BEAN-13,3.1,mm,Chi
+Bean,Stem,High,CHI-BEAN-13,0.6,mm,Chi
+Bean,Stem,High,CHI-BEAN-13,0.5,mm,Chi
+Bean,Stem,High,CHI-BEAN-13,3.4,mm,Chi
+Bean,Stem,High,CHI-BEAN-13,2.9,mm,Chi
+Bean,Stem,High,CHI-BEAN-13,3,mm,Chi
+Bean,Stem,High,CHI-BEAN-13,2.9,mm,Chi
+Bean,Stem,High,CHI-BEAN-13,2,mm,Chi
+Bean,Stem,High,CHI-BEAN-13,2.1,mm,Chi
+Bean,Stem,High,CHI-BEAN-13,2,mm,Chi
+Bean,Stem,High,FLORES-BEAN-STEM-ROW11,4,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW11,4,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW11,3,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW11,2,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW11,4,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW11,4,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW11,4,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW11,4,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW12,10,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW12,5,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW12,10,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW12,10,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW12,2,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW12,7,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW12,10,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW12,3,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW13,5,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW13,3,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW13,3,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW13,3,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW13,4,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW13,5,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW13,3,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW13,2,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW14,8,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW14,9,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW14,9,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW14,8,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW14,9,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW14,3,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW14,2,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW14,4,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,FLORES-BEAN-STEM-ROW14,10,mm,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Stem,High,SC05-BEAN-STEM-P02-R11,4,mm,Howard
+Bean,Stem,High,SC05-BEAN-STEM-P02-R11,3,mm,Howard
+Bean,Stem,High,SC05-BEAN-STEM-P02-R11,3,mm,Howard
+Bean,Stem,High,SC05-BEAN-STEM-P02-R11,3,mm,Howard
+Bean,Stem,High,SC05-BEAN-STEM-P02-R11,1,mm,Howard
+Bean,Stem,High,SC05-BEAN-STEM-P02-R11,1,mm,Howard
+Bean,Stem,High,SC05-BEAN-STEM-P02-R11,1,mm,Howard
+Bean,Stem,High,SC05-BEAN-STEM-P02-R11,1,mm,Howard
+Bean,Stem,High,SC05-BEAN-STEM-P02-R11,4,mm,Howard
+Bean,Leaves,Low,CHI-BEAN-01,7,#,Chi
+Bean,Leaves,Low,CHI-BEAN-02,7,#,Chi
+Bean,Leaves,Low,CHI-BEAN-03,13,#,Chi
+Bean,Leaves,Low,CHI-BEAN-04,14,#,Chi
+Bean,Leaves,Low,CHI-BEAN-05,14,#,Chi
+Bean,Leaves,Low,CHI-BEAN-07,7,#,Chi
+Bean,Leaves,Low,FLORES-BEAN-01,3,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,Low,FLORES-BEAN-02,2,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,Low,SC05-BEAN-LEAVES-P03-R01,10,#,Howard
+Bean,Leaves,Med,CHI-BEAN-08,3,#,Chi
+Bean,Leaves,Med,CHI-BEAN-08,0,#,Chi
+Bean,Leaves,Med,CHI-BEAN-08,2,#,Chi
+Bean,Leaves,Med,CHI-BEAN-08,3,#,Chi
+Bean,Leaves,Med,CHI-BEAN-08,3,#,Chi
+Bean,Leaves,Med,CHI-BEAN-09,8,#,Chi
+Bean,Leaves,Med,CHI-BEAN-09,0,#,Chi
+Bean,Leaves,Med,CHI-BEAN-09,3,#,Chi
+Bean,Leaves,Med,CHI-BEAN-09,5,#,Chi
+Bean,Leaves,Med,CHI-BEAN-09,2,#,Chi
+Bean,Leaves,Med,CHI-BEAN-10,0,#,Chi
+Bean,Leaves,Med,CHI-BEAN-10,6,#,Chi
+Bean,Leaves,Med,CHI-BEAN-10,5,#,Chi
+Bean,Leaves,Med,FLORES-BEAN-06,10,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,Med,FLORES-BEAN-06,4,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,Med,FLORES-BEAN-06,8,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,Med,FLORES-BEAN-06,7,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,Med,FLORES-BEAN-06,0,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,Med,FLORES-BEAN-07,1,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,Med,FLORES-BEAN-07,6,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,Med,FLORES-BEAN-07,0,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,Med,SC05-BEAN-LEAVES-P03-R08,4,#,Howard
+Bean,Leaves,Med,SC05-BEAN-LEAVES-P03-R08,1,#,Howard
+Bean,Leaves,Med,SC05-BEAN-LEAVES-P03-R08,6,#,Howard
+Bean,Leaves,Med,SC05-BEAN-LEAVES-P03-R08,5,#,Howard
+Bean,Leaves,Med,SC05-BEAN-LEAVES-P03-R08,3,#,Howard
+Bean,Leaves,Med,SC05-BEAN-LEAVES-P03-R10,0,#,Howard
+Bean,Leaves,Med,SC05-BEAN-LEAVES-P03-R10,10,#,Howard
+Bean,Leaves,Med,SC05-BEAN-LEAVES-P03-R10,11,#,Howard
+Bean,Leaves,High,CHI-BEAN-11,7,#,Chi
+Bean,Leaves,High,CHI-BEAN-11,0,#,Chi
+Bean,Leaves,High,CHI-BEAN-11,3,#,Chi
+Bean,Leaves,High,CHI-BEAN-11,3,#,Chi
+Bean,Leaves,High,CHI-BEAN-11,4,#,Chi
+Bean,Leaves,High,CHI-BEAN-11,0,#,Chi
+Bean,Leaves,High,CHI-BEAN-11,0,#,Chi
+Bean,Leaves,High,CHI-BEAN-11,4,#,Chi
+Bean,Leaves,High,CHI-BEAN-11,1,#,Chi
+Bean,Leaves,High,CHI-BEAN-11,0,#,Chi
+Bean,Leaves,High,CHI-BEAN-12,3,#,Chi
+Bean,Leaves,High,CHI-BEAN-12,0,#,Chi
+Bean,Leaves,High,CHI-BEAN-12,2,#,Chi
+Bean,Leaves,High,CHI-BEAN-12,2,#,Chi
+Bean,Leaves,High,CHI-BEAN-12,0,#,Chi
+Bean,Leaves,High,CHI-BEAN-12,11,#,Chi
+Bean,Leaves,High,CHI-BEAN-12,3,#,Chi
+Bean,Leaves,High,CHI-BEAN-12,1,#,Chi
+Bean,Leaves,High,CHI-BEAN-13,6,#,Chi
+Bean,Leaves,High,CHI-BEAN-13,0,#,Chi
+Bean,Leaves,High,CHI-BEAN-13,6,#,Chi
+Bean,Leaves,High,CHI-BEAN-13,11,#,Chi
+Bean,Leaves,High,CHI-BEAN-13,11,#,Chi
+Bean,Leaves,High,CHI-BEAN-13,2,#,Chi
+Bean,Leaves,High,CHI-BEAN-13,9,#,Chi
+Bean,Leaves,High,CHI-BEAN-13,2,#,Chi
+Bean,Leaves,High,CHI-BEAN-13,6,#,Chi
+Bean,Leaves,High,CHI-BEAN-13,1,#,Chi
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW11,7,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW11,6,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW11,7,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW11,5,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW11,20,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW11,10,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW11,9,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW11,11,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW12,6,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW12,10,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW12,11,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW12,9,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW12,0,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW12,7,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW12,9,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW12,12,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW13,13,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW13,20,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW13,9,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW13,10,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW13,8,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW13,0,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW13,0,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW13,0,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW14,0,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW14,8,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW14,10,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW14,8,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW14,12,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW14,5,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW14,8,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW14,5,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,FLORES-BEAN-LEAVES-ROW14,10,#,"Flores, Azizi, Eberlein, Dunnigan"
+Bean,Leaves,High,SC05-BEAN-LEAVES-P03-R11,4,#,Howard
+Bean,Leaves,High,SC05-BEAN-LEAVES-P03-R11,6,#,Howard
+Bean,Leaves,High,SC05-BEAN-LEAVES-P03-R11,10,#,Howard
+Bean,Leaves,High,SC05-BEAN-LEAVES-P03-R11,5,#,Howard
+Bean,Leaves,High,SC05-BEAN-LEAVES-P03-R11,12,#,Howard
+Bean,Leaves,High,SC05-BEAN-LEAVES-P03-R11,6,#,Howard
+Radish,Height,Low,MORENO-RADISH-01,16.4,cm,Moreno
+Radish,Height,Low,MORENO-RADISH-02,11,cm,Moreno
+Radish,Height,Low,MORENO-RADISH-04,14,cm,Moreno
+Radish,Height,Low,MORENO-RADISH-05,19.9,cm,Moreno
+Radish,Height,Low,SC04-RADISH-HEIGHT-PAGE05-ROW01,14,cm,Fragakis
+Radish,Height,Low,SC04-RADISH-HEIGHT-PAGE05-ROW02,16,cm,Fragakis
+Radish,Height,Low,SC04-RADISH-HEIGHT-PAGE05-ROW03,7.2,cm,Fragakis
+Radish,Height,Med,MORENO-RADISH-06,23,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-06,11.5,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-06,16.5,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-06,13,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-06,15,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-07,14,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-07,15.5,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-07,17.5,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-07,10,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-07,16,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-08,17,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-08,18,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-08,14.6,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-08,19.8,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-08,15,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-09,19,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-09,16.9,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-09,18.5,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-09,9.8,cm,Moreno
+Radish,Height,Med,MORENO-RADISH-09,18,cm,Moreno
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE03-ROW06,17.3,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE03-ROW06,14.5,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE03-ROW06,14,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE03-ROW06,17.2,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE03-ROW06,18.5,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE05-ROW06,12.5,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE05-ROW06,7,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE05-ROW06,17,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE05-ROW06,14.2,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE08-ROW14,19,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE08-ROW14,14,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE08-ROW14,13,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE08-ROW14,18,cm,Fragakis
+Radish,Height,Med,SC04-RADISH-HEIGHT-PAGE08-ROW14,15,cm,Fragakis
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R06,15,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R06,11,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R06,7,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R07,13,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R07,12,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R07,11,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R07,11.5,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R07,11,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R08,16,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R08,12,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R08,13,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R08,16,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R08,10,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R09,16,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R09,14,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R09,9,cm,Howard
+Radish,Height,Med,SC05-RADISH-HEIGHT-P08-R09,10,cm,Howard
+Radish,Height,High,MORENO-RADISH-11,14.9,cm,Moreno
+Radish,Height,High,MORENO-RADISH-11,18,cm,Moreno
+Radish,Height,High,MORENO-RADISH-11,16,cm,Moreno
+Radish,Height,High,MORENO-RADISH-11,15,cm,Moreno
+Radish,Height,High,MORENO-RADISH-11,13.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-11,14.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-11,10.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-12,14.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-12,19.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-12,18.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-12,17,cm,Moreno
+Radish,Height,High,MORENO-RADISH-12,10,cm,Moreno
+Radish,Height,High,MORENO-RADISH-12,19,cm,Moreno
+Radish,Height,High,MORENO-RADISH-12,16,cm,Moreno
+Radish,Height,High,MORENO-RADISH-12,12,cm,Moreno
+Radish,Height,High,MORENO-RADISH-12,15.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-12,17,cm,Moreno
+Radish,Height,High,MORENO-RADISH-13,14.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-13,10,cm,Moreno
+Radish,Height,High,MORENO-RADISH-13,18,cm,Moreno
+Radish,Height,High,MORENO-RADISH-13,17,cm,Moreno
+Radish,Height,High,MORENO-RADISH-13,10.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-13,15.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-13,15.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-13,17.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-13,17,cm,Moreno
+Radish,Height,High,MORENO-RADISH-13,15,cm,Moreno
+Radish,Height,High,MORENO-RADISH-14,15.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-14,15,cm,Moreno
+Radish,Height,High,MORENO-RADISH-14,10.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-14,11,cm,Moreno
+Radish,Height,High,MORENO-RADISH-14,14,cm,Moreno
+Radish,Height,High,MORENO-RADISH-14,14,cm,Moreno
+Radish,Height,High,MORENO-RADISH-14,12,cm,Moreno
+Radish,Height,High,MORENO-RADISH-14,16,cm,Moreno
+Radish,Height,High,MORENO-RADISH-14,12,cm,Moreno
+Radish,Height,High,MORENO-RADISH-14,16.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-15,17,cm,Moreno
+Radish,Height,High,MORENO-RADISH-15,13,cm,Moreno
+Radish,Height,High,MORENO-RADISH-15,15,cm,Moreno
+Radish,Height,High,MORENO-RADISH-15,18.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-15,13,cm,Moreno
+Radish,Height,High,MORENO-RADISH-15,19.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-15,17,cm,Moreno
+Radish,Height,High,MORENO-RADISH-15,15.5,cm,Moreno
+Radish,Height,High,MORENO-RADISH-15,9.5,cm,Moreno
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW11,19.5,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW11,11.5,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW11,17,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW11,15.5,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW11,18.5,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW11,15,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW11,19,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW12,12,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW12,13,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW12,15.2,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW12,14.5,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW12,10,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW12,13,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW12,9.7,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW12,12.5,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE03-ROW12,12.5,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW10,18,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW10,15,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW10,17,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW10,16,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW10,16,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW10,12,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW11,15,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW11,12,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW11,15,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW11,18,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW11,16,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW11,16,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW11,14,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW11,12,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW12,17,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW12,11,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW12,14,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW12,15,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW12,15,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW12,16,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW13,15,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW13,11,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW13,16,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW13,16,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW13,12,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW13,12,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW13,14,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW13,15,cm,Fragakis
+Radish,Height,High,SC04-RADISH-HEIGHT-PAGE08-ROW13,20,cm,Fragakis
+Radish,Stem,Low,MORENO-RADISH-01,0.1,mm,Moreno
+Radish,Stem,Low,MORENO-RADISH-02,0.1,mm,Moreno
+Radish,Stem,Low,MORENO-RADISH-03,0.1,mm,Moreno
+Radish,Stem,Low,MORENO-RADISH-04,0.2,mm,Moreno
+Radish,Stem,Low,MORENO-RADISH-05,0.5,mm,Moreno
+Radish,Stem,Low,SC04-RADISH-STEM-PAGE06-ROW01,2,mm,Fragakis
+Radish,Stem,Low,SC04-RADISH-STEM-PAGE06-ROW02,1,mm,Fragakis
+Radish,Stem,Low,SC04-RADISH-STEM-PAGE06-ROW03,1,mm,Fragakis
+Radish,Stem,Med,MORENO-RADISH-06,0.5,mm,Moreno
+Radish,Stem,Med,MORENO-RADISH-06,0.5,mm,Moreno
+Radish,Stem,Med,MORENO-RADISH-06,0.5,mm,Moreno
+Radish,Stem,Med,MORENO-RADISH-06,0.5,mm,Moreno
+Radish,Stem,Med,MORENO-RADISH-07,0.5,mm,Moreno
+Radish,Stem,Med,MORENO-RADISH-07,0.5,mm,Moreno
+Radish,Stem,Med,MORENO-RADISH-07,0.5,mm,Moreno
+Radish,Stem,Med,MORENO-RADISH-07,0.5,mm,Moreno
+Radish,Stem,Med,MORENO-RADISH-07,0.5,mm,Moreno
+Radish,Stem,Med,MORENO-RADISH-07,0.5,mm,Moreno
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE04-ROW06,2,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE04-ROW06,3,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE04-ROW06,2,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE04-ROW06,2,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE04-ROW06,3,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE06-ROW06,0.5,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE06-ROW06,1.5,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE06-ROW06,1,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE06-ROW06,1.8,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE07-ROW09,2,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE07-ROW09,1,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE07-ROW09,1,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE07-ROW09,2,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE07-ROW09,1,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE07-ROW10,1,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE07-ROW10,1,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE07-ROW10,1,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE07-ROW10,1,mm,Fragakis
+Radish,Stem,Med,SC04-RADISH-STEM-PAGE07-ROW10,1,mm,Fragakis
+Radish,Stem,Med,SC05-RADISH-STEM-P09-R06,1,mm,Howard
+Radish,Stem,Med,SC05-RADISH-STEM-P09-R06,1,mm,Howard
+Radish,Stem,Med,SC05-RADISH-STEM-P09-R06,1.5,mm,Howard
+Radish,Stem,Med,SC05-RADISH-STEM-P09-R06,1,mm,Howard
+Radish,Stem,Med,SC05-RADISH-STEM-P09-R06,1,mm,Howard
+Radish,Stem,Med,SC05-RADISH-STEM-P09-R07,1.5,mm,Howard
+Radish,Stem,Med,SC05-RADISH-STEM-P09-R08,1.5,mm,Howard
+Radish,Stem,Med,SC05-RADISH-STEM-P09-R08,1.5,mm,Howard
+Radish,Stem,Med,SC05-RADISH-STEM-P09-R08,1.5,mm,Howard
+Radish,Stem,Med,SC05-RADISH-STEM-P09-R09,0.5,mm,Howard
+Radish,Stem,Med,SC05-RADISH-STEM-P09-R09,1,mm,Howard
+Radish,Stem,Med,SC05-RADISH-STEM-P09-R09,1.2,mm,Howard
+Radish,Stem,High,MORENO-RADISH-11,0.5,mm,Moreno
+Radish,Stem,High,MORENO-RADISH-11,0.5,mm,Moreno
+Radish,Stem,High,MORENO-RADISH-11,0.5,mm,Moreno
+Radish,Stem,High,MORENO-RADISH-11,0.5,mm,Moreno
+Radish,Stem,High,MORENO-RADISH-11,0.5,mm,Moreno
+Radish,Stem,High,MORENO-RADISH-11,0.5,mm,Moreno
+Radish,Stem,High,MORENO-RADISH-11,0.5,mm,Moreno
+Radish,Stem,High,MORENO-RADISH-12,0.5,mm,Moreno
+Radish,Stem,High,MORENO-RADISH-12,0.5,mm,Moreno
+Radish,Stem,High,MORENO-RADISH-12,0.5,mm,Moreno
+Radish,Stem,High,MORENO-RADISH-12,0.5,mm,Moreno
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW11,3,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW11,3,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW11,2,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW11,2,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW11,2,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW11,1.7,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW11,1.3,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW12,2.2,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW12,3,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW12,3.4,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW12,2,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW12,2.2,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW12,1.5,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW12,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW12,3,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE04-ROW12,2.1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW11,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW11,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW11,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW11,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW11,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW11,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW11,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW11,2,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW12,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW12,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW12,2,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW12,2,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW12,2,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW12,3,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW13,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW13,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW13,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW13,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW13,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW13,2,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW14,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW14,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW14,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW14,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW14,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW14,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW14,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW14,1,mm,Fragakis
+Radish,Stem,High,SC04-RADISH-STEM-PAGE07-ROW14,1,mm,Fragakis
+Radish,Leaves,Low,MORENO-RADISH-01,6,#,Moreno
+Radish,Leaves,Low,MORENO-RADISH-02,9,#,Moreno
+Radish,Leaves,Low,MORENO-RADISH-03,8,#,Moreno
+Radish,Leaves,Low,MORENO-RADISH-04,5,#,Moreno
+Radish,Leaves,Low,SC04-RADISH-LEAVES-PAGE01-ROW01,5,#,Fragakis
+Radish,Leaves,Low,SC04-RADISH-LEAVES-PAGE01-ROW02,3,#,Fragakis
+Radish,Leaves,Low,SC04-RADISH-LEAVES-PAGE01-ROW03,7,#,Fragakis
+Radish,Leaves,Med,MORENO-RADISH-06,10,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-06,5,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-06,4,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-06,4,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-06,5,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-07,4,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-07,5,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-07,4,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-07,7,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-07,6,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-08,8,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-08,7,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-08,5,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-08,6,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-08,4,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-09,4,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-09,5,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-09,6,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-09,4,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-09,3,#,Moreno
+Radish,Leaves,Med,MORENO-RADISH-09,6,#,Moreno
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW05,7,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW05,4,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW05,5,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW05,4,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW05,6,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW07,5,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW07,5,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW07,6,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW09,6,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW09,8,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW09,7,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW09,7,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW10,5,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW10,8,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW10,4,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW10,5,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW10,6,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW11,5,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW11,3,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW11,5,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW11,6,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW13,7,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW13,5,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW13,7,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW13,8,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE01-ROW13,6,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE02-ROW06,5,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE02-ROW06,6,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE02-ROW06,5,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE02-ROW06,4,#,Fragakis
+Radish,Leaves,Med,SC04-RADISH-LEAVES-PAGE02-ROW06,4,#,Fragakis
+Radish,Leaves,High,MORENO-RADISH-11,4,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-11,3,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-11,7,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-11,2,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-11,3,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-11,9,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-11,6,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-11,5,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-12,5,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-12,2,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-12,5,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-12,6,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-12,8,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-12,6,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-12,5,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-12,3,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-12,5,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-12,4,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-13,6,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-13,2,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-13,3,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-13,5,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-13,6,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-13,2,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-13,7,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-13,7,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-13,4,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-13,5,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-14,5,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-14,3,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-14,4,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-14,5,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-14,3,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-14,2,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-14,4,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-14,3,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-14,6,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-14,5,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-15,4,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-15,6,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-15,4,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-15,7,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-15,4,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-15,7,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-15,4,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-15,6,#,Moreno
+Radish,Leaves,High,MORENO-RADISH-15,7,#,Moreno
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW06,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW06,4,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW06,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW06,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW06,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW06,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW08,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW08,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW08,6,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW08,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW08,6,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW08,4,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW12,6,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW12,8,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW12,7,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW12,7,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW12,6,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW12,6,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW12,8,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW14,6,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW14,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW14,4,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW14,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW14,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW14,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW14,6,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW14,7,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW14,6,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW14,4,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW15,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW15,4,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW15,7,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW15,6,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW15,7,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW15,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW15,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW15,7,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW15,7,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE01-ROW15,8,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE02-ROW11,3,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE02-ROW11,6,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE02-ROW11,6,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE02-ROW11,5,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE02-ROW11,4,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE02-ROW11,4,#,Fragakis
+Radish,Leaves,High,SC04-RADISH-LEAVES-PAGE02-ROW11,5,#,Fragakis
